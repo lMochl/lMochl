@@ -15,7 +15,7 @@ Soy un futuro programador chileno, actualmente cursando el 4.º año de mi carre
 
 - Base de Datos
   
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&perline=3)](https://skillicons.dev)
 
 - Herramientas
   
