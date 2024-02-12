@@ -24,5 +24,5 @@ Soy un futuro programador chileno, actualmente cursando el 4.º año de mi carre
 
 ## Contactame
 
-Puedes encontrarme en [![LinkedIn](https://skillicons.dev/icons?i=linkedIn)](a), [![Twitter](https://skillicons.dev/icons?i=twitter)](a), [![Instagram](https://skillicons.dev/icons?i=instagram)](a)
-, o visitar mi [portafolio](a) para obtener más información sobre mí y mis proyectos.
+Puedes encontrarme en [LinkedIn](a), [Twitter](a), [Instagram](a), o visitar mi [portafolio](a) para obtener más información sobre mí y mis proyectos.
+
