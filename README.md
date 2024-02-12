@@ -1,4 +1,6 @@
-### Hola, mi nombre es Matías Guiñez 👋
+# Hola, mi nombre es Matías Guiñez 👋
+### Estudiante de Ingeniería Civil en Informática
+
 
 <!--
 **lMochl/lMochl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
