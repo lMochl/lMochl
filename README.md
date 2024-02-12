@@ -15,4 +15,4 @@ Soy un futuro programador chileno, actualmente cursando el 4.º año de mi carre
 
 ## Contactame
 
-Puede contactarme a través de mis redes o encontrar más información de mí en mi portafolio
+Puedes encontrarme en [LinkedIn](a), [Twitter](a), [Instagram](a), o visitar mi [portafolio](a) para obtener más información sobre mí y mis proyectos.
