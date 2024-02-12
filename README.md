@@ -7,7 +7,7 @@ Soy un futuro programador chileno, actualmente cursando el 4.º año de mi carre
 
 - Backend
   
-[![My Skills](https://skillicons.dev/icons?i=c,java,py&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,dart&perline=3)](https://skillicons.dev)
 
 - Frontend
   
