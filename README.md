@@ -6,6 +6,8 @@ Soy un futuro programador chileno, actualmente cursando el 4.º año de mi carre
 ## Tecnologías
 
 - Backend
+  
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 - Frontend
 
