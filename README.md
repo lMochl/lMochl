@@ -33,4 +33,4 @@ Puedes encontrarme en mis redes o visitar mi portafolio para obtener más inform
 
 [![Instagram](https://img.shields.io/badge/Instagram-@l_moch_l-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)]()
 
-[![Portafolio](https://img.shields.io/badge/Web-Portafolio-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](a)
+[![Portafolio](https://img.shields.io/badge/Web-Portafolio-14a1f0?style=for-the-badge&logoColor=white&labelColor=101010)](a)
