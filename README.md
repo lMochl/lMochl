@@ -3,7 +3,7 @@
 
 Soy un futuro programador chileno, actualmente cursando el 4.º año de mi carrera, a puertas de egresar como futuro profesional.
 
-##Tecnologías
+## Tecnologías
 
 - Backend
 
