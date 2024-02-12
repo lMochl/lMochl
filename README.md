@@ -24,5 +24,13 @@ Soy un futuro programador chileno, actualmente cursando el 4.º año de mi carre
 
 ## Contactame
 
-Puedes encontrarme en [LinkedIn](a), [Twitter](a), [Instagram](a), o visitar mi [portafolio](a) para obtener más información sobre mí y mis proyectos.
+Puedes encontrarme en mis redes o visitar mi portafolio para obtener más información sobre mí y mis proyectos.
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matías_Guiñez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](a)
+
+[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](a)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)]()
+
+[![Portafolio](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](a)
