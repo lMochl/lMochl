@@ -7,7 +7,7 @@ Soy un futuro programador chileno, actualmente cursando el 5.º año de mi carre
 
 - Backend
   
-[![My Skills](https://skillicons.dev/icons?i=java,py,typescript&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,typescript,spring&perline=3)](https://skillicons.dev)
 
 - Frontend
   
@@ -19,7 +19,7 @@ Soy un futuro programador chileno, actualmente cursando el 5.º año de mi carre
 
 - Herramientas
   
-[![My Skills](https://skillicons.dev/icons?i=docker,git,spring,vscode,postman&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,vscode,postman&perline=3)](https://skillicons.dev)
 
 
 ## Contactame
