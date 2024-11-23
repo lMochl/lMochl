@@ -15,11 +15,11 @@ Soy un futuro programador chileno, actualmente cursando el 5.º año de mi carre
 
 - Base de Datos
   
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase&perline=3)](https://skillicons.dev)
 
 - Herramientas
   
-[![My Skills](https://skillicons.dev/icons?i=docker,git,spring,vscode,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,spring,vscode&perline=3)](https://skillicons.dev)
 
 
 ## Contactame
