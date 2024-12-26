@@ -7,11 +7,11 @@ Soy un futuro programador chileno, actualmente cursando el 5.º año de mi carre
 
 - Backend
   
-[![My Skills](https://skillicons.dev/icons?i=java,py,spring,typescript,django&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,spring,typescript&perline=3)](https://skillicons.dev)
 
 - Frontend
   
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,react,angular&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,react,angular,django&perline=3)](https://skillicons.dev)
 
 - Base de Datos
   
