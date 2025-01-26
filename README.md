@@ -1,7 +1,7 @@
 # Hola, mi nombre es Matías Guiñez 👋
-### Estudiante de Ingeniería Civil en Informática
+### Ingeniero Civil en Informática
 
-Soy un futuro programador chileno, actualmente cursando el 5.º año de mi carrera, a puertas de egresar como futuro profesional.
+Soy un programador chileno recién egresado, apasionado por la tecnología y con una gran motivación para crecer en mi carrera profesional.
 
 ## Tecnologías
 
