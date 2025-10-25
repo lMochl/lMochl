@@ -26,4 +26,4 @@ Soy un programador chileno recién egresado, apasionado por la tecnología y con
 
 Puedes encontrarme en mis redes o visitar mi portafolio para obtener más información sobre mí y mis proyectos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mat%C3%ADas%20Gui%C3%B1ez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mat%C3%ADas-alexander-gui%C3%B1ez-monsalve)  [![Twitter](https://img.shields.io/badge/Twitter-@MonsalveGuinez-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/MonsalveGuinez) [![Portafolio](https://img.shields.io/badge/Web-Portafolio-14a1f0?style=for-the-badge&logoColor=white&labelColor=101010)](https://gm-dev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mat%C3%ADas%20Gui%C3%B1ez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mat%C3%ADas-alexander-gui%C3%B1ez-monsalve) [![Portafolio](https://img.shields.io/badge/Web-Portafolio-14a1f0?style=for-the-badge&logoColor=white&labelColor=101010)](https://gm-dev.netlify.app/)
