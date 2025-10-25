@@ -7,7 +7,7 @@ Soy un programador chileno recién egresado, apasionado por la tecnología y con
 
 - Backend
   
-[![My Skills](https://skillicons.dev/icons?i=java,py,spring,django&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,spring,django,fastapi&perline=3)](https://skillicons.dev)
 
 - Frontend
   
