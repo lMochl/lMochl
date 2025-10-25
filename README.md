@@ -19,7 +19,7 @@ Soy un programador chileno recién egresado, apasionado por la tecnología y con
 
 - Herramientas
   
-[![My Skills](https://skillicons.dev/icons?i=docker,git,postman,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,postman,vscode,gcp&perline=3)](https://skillicons.dev)
 
 
 ## Contactame
