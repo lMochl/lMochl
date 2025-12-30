@@ -1,7 +1,7 @@
 # Hola, mi nombre es Matías Guiñez 👋
 ### Ingeniero Civil en Informática
 
-Soy un programador chileno recién egresado, apasionado por la tecnología y con una gran motivación para crecer en mi carrera profesional.
+Soy un programador chileno, apasionado por la tecnología y con una gran motivación para crecer en mi carrera profesional.
 
 ## Tecnologías
 
