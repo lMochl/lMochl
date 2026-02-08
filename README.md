@@ -7,7 +7,7 @@ Soy un programador chileno, apasionado por la tecnología y con una gran motivac
 
 - Backend
   
-[![My Skills](https://skillicons.dev/icons?i=java,py,spring,django,fastapi&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,spring,django,fastapi,express&perline=3)](https://skillicons.dev)
 
 - Frontend
   
