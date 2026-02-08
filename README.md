@@ -11,7 +11,7 @@ Soy un programador chileno, apasionado por la tecnología y con una gran motivac
 
 - Frontend
   
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,typescript,react,angular&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,typescript,react,angular,tailwind&perline=3)](https://skillicons.dev)
 
 - Base de Datos
   
